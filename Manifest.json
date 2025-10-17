@@ -1,0 +1,8 @@
+{
+  "name": "reddit-cybersafe-game",
+  "version": "1.0.0",
+  "title": "Reddit CyberSafe Game",
+  "description": "An educational Reddit mini-game that teaches users to detect phishing or scam messages.",
+  "type": "app",
+  "entryPoint": "main.js"
+}
