@@ -1,0 +1,12 @@
+{
+  "name": "reddit-cybersafe-game",
+  "version": "1.0.0",
+  "description": "A Reddit game that helps users detect scam messages using Devvit Web and Kiro.",
+  "scripts": {
+    "dev": "echo 'Running Reddit CyberSafe Game locally...'",
+    "build": "echo 'Build complete.'"
+  },
+  "dependencies": {
+    "@devvit/public-api": "latest"
+  }
+}
