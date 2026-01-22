@@ -1,9 +1,0 @@
-{
-  "kiro_project": "reddit-cybersafe-game",
-  "features": {
-    "hooks": true,
-    "specs": true,
-    "steering": true
-  },
-  "description": "Kiro setup for automating test, build, and deploy workflow for Reddit CyberSafe Game."
-}
