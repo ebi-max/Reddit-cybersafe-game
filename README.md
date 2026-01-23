@@ -97,8 +97,9 @@ Cybersecurity Education
 
 All applications are developed for educational, awareness, and decision-support purposes only. They do not replace professional medical, environmental, or cybersecurity services.
 
-🔗 LINKS (Add live app & repo links here)
-
-AI Waste Sorter: [Link here]
-AI Health Checker: [Link here]
-AI CyberSafe Checker: [Link here
+🔗 LINKS 
+https://cybersafe.streamlit.app
+https://ai-waste-sorter.streamlit.app/
+https://ai-health-checker.streamlit.app/
+https://phisheye.streamlit.app/
+https://redditgame.streamlit.app/
