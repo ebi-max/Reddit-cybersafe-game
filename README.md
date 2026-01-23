@@ -36,6 +36,16 @@ SME digital safety awareness
 School and youth training programs
 ⚠️ This tool provides awareness-level guidance only.
 
+ phishEye 
+
+PhishEye is an AI-powered phishing detection tool designed to help users identify and report suspicious emails, messages, and links in real time. By analyzing content patterns commonly used by scammers, PhishEye helps individuals and organizations avoid fraud, identity theft, and online scams.
+It promotes safer digital behavior through instant analysis, awareness tips, and downloadable security reports.
+
+ Reddit CyberSafe Game
+
+Reddit CyberSafe Game is an interactive, gamified learning platform that educates users on online safety, phishing awareness, and cyber hygiene. Through quizzes and real-world scenarios inspired by social media interactions, players learn how to recognize and respond to cyber threats in a fun and engaging way.
+The game encourages responsible internet use while improving digital literacy and cyber resilience.
+
 📊 FEATURES ACROSS ALL APPS
 
 Mobile-friendly Streamlit interface
@@ -52,6 +62,7 @@ TensorFlow
 Pandas
 GitHub
 Rule-based & AI-assisted inference
+
 🎓 CERTIFICATIONS & TRAINING
 
 No-Code / Low-Code AI Automation Certificate
@@ -59,6 +70,7 @@ Certificate of Participation – Microsoft Power BI Data Analyst Supported Progr
 Cisco Networking Academy
 English for IT 1
 English for IT 2
+
 🎓 EDUCATION
 
 Bachelor of Science (BSc) in Computer Science
